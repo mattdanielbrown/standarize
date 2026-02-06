@@ -34,7 +34,7 @@
 		"cssnano": "^6.0.0",
 		"postcss": "^8.4.12",
 		"postcss-import": "^16.0.0",
-		"stylelint": "^16.1.0",
+		"stylelint": "^17.0.0",
 		"stylelint-config-standard": "^36.0.0"
 	}
 }
